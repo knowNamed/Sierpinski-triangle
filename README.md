@@ -1,3 +1,2 @@
 # Sierpinski-triangle
-$ sudo apt install libsfml-dev
-$ make
+$ sudo apt install libsfml-dev<br>$ make
